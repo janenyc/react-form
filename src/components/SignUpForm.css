@@ -1,0 +1,38 @@
+.signup-form-heading {
+    text-align: center;
+    color: #333;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.signup-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: pink;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: auto;
+}
+
+.signup-label {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.signup-label input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-top: 5px;
+}
+
+.signup-button {
+    background-color: darkslateblue;
+    color: white;
+    padding: 10px 15px;
+    margin-top: 20px;
+}
+

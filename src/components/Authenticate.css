@@ -1,0 +1,21 @@
+.authenticate-heading {
+    text-align: center;
+    color: #333;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.authenticate-button {
+    display: block;
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.error-message, .success-message {
+    text-align: center;
+    margin-top: 10px;
+}
+
